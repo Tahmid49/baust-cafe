@@ -1,0 +1,116 @@
+.cot {margin-top: -8px;
+    margin-bottom: 20px;
+    margin-left: -9px;
+    margin-right: -8px;
+    padding-left: 685px;
+    padding-right: 198px;
+    padding-top: -36px;
+    padding-bottom: 1px;
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(https://www.w3schools.com/css/border.png) 30 stretch;
+
+background-color: aquamarine;
+    animation-name: example;
+    animation-duration: 15s;
+  }
+  @keyframes example {
+    from {background-color: rgba(240, 210, 108, 0.958);}
+    to {background-color: rgb(90, 182, 168);}
+
+    ;}
+    .lol{
+
+background-image: url(BAUST\ CAFE.png);
+
+font-size: larger;
+margin-top: -20px;
+margin-bottom: 37px;
+margin-left: -9px;
+margin-right: -8px;
+padding-top: 48px;
+padding-bottom: 48px;
+padding-right: 30px;
+padding-left: 126px;
+background-repeat: no-repeat;
+background-size: cover;
+height: 80vh;
+border: 10px solid transparent;
+padding: 15px;
+border-image: url(https://www.w3schools.com/css/border.png) 30 round;
+
+    }
+    .sec{
+        background-color: rgb(226, 158, 226); /*  */
+        border: none;
+        color: white;
+        padding: 10px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 10px;
+        border-radius: 25px;
+    border: 2px solid #73AD21;
+    }
+
+
+.topnav{      background: rgba(255, 255, 255, 0.2);
+    width: 280px;
+    border: 5px solid rgb(148, 174, 200);
+    margin-top: 254px;
+    margin-bottom: 128px;
+    margin-left: 432px;
+    margin-right: 72px;
+    padding-top: 68px;
+    padding-bottom: 50px;
+    padding-right: 25px;
+    padding-left: 141px;
+    backdrop-filter: blur(6px);
+    border-radius: 25px;
+
+    }
+.Home{
+    color: rgb(85, 125, 134);
+
+    width: 100px;
+    border: 5px solid rgb(40, 240, 147);
+    padding: 4px;
+    margin: -66px;
+    border-radius: 25px;
+}
+.About{    color: rgb(85, 125, 134);
+    border-radius: 25px;
+    width: 100px;
+    border: 5px solid rgb(40, 240, 147);
+    padding: 4px;
+    margin: 94px;}
+.contact{color: rgb(85, 125, 134);
+    border-radius: 25px;
+    width: 100px;
+    border: 5px solid rgb(40, 240, 147);
+    padding: 4px;
+    margin: -68px;}
+.Search{color: rgb(85, 125, 134);
+    border-radius: 25px;
+background-image: url(search_icon.png);
+    width: 99px;
+    border: 5px solid rgb(40, 240, 147);
+    padding: 5px;
+    margin: 11px;}
+    
+    .text{ background: url(images.jfif) 00/ cover no-repeat; -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.cosec{
+    background-color: rgb(226, 158, 226); /*  */
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    border-radius: 25px;
+border: 2px solid #73AD21;
+
+
+
+}
